@@ -1,0 +1,38 @@
+
+
+Restaurants
+	- restaurants/add/ - "Restarabkar qo'shish"
+	- restaurants/edit/ "Restaranlarni edit qilish"
+
+	- regions/ - "Barcha regionlarni ko'rsatish" 
+	- regions/restaurant/ - "Barcha restaranlarni ko'rish"
+	- regions/region-id/restaurant/ - "Regiondagi barcha restaranlarni ko'rsatish"
+
+	- restaurants/comment/add/ - "Restaurantlarga comment yozish"
+	- restaurants/comment/ "commentlarni ko'rish"
+	- restaurants/comment/delete/ "Commentlarni o'chirib tashlash"
+
+	- restaurants/favourite/add/ - "Restaurantni favourite ga qo'shib qo'yish(foydalanuvchining JWTtokeni orqali)"
+	- restaurants/favourite/delete/ - "Favourite dan o'chirish"
+
+	- restaurants/rate/add/ - "Restaranlarga reyting berish(1 dan 5 gacha)"
+ 	- restaurants/rate/ - "Restrain reytingini ko'rish"
+
+
+Hotels
+	- hotels/add/ - "Hotel qo'shish"
+	- hotels/edit/ - "hotel ma'lumotlarini edit qilish"
+	
+	- hotels/ - "Barcha hotellarni ko'rsatish"
+	- regions/hotel/ - "Barcha regionlarni ko'rsatish"
+	- regions/region-id/hotel/ - "Regiondagi barchan hotellarni ko'rsatish"
+
+	- hotels/comment/add/ - "Hotelga comment yozish"
+	- hotels/comment/ "commentlarni ko'rish"
+	- hotels/comment/delete/ "Commentlarni o'chirib tashlash"
+
+	- hotels/favourite/add/ - "hotelni favourite ga qo'shib qo'yish(foydalanuvchining JWTtokeni orqali)"
+	- hotels/favourite/delete/ - "Favourite dan o'chirish"
+
+	- hotels/rate/add/ - "hotellarga reyting berish(1 dan 5 gacha)"
+ 	- restaurants/rate/ - "hotel reytingini ko'rish"
