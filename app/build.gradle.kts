@@ -68,7 +68,8 @@ dependencies {
     implementation("androidx.preference:preference-ktx:1.2.1")
 
 
-
+    // gson
+    implementation("com.google.code.gson:gson:2.10.1")
 
 
     //Chucker
@@ -81,8 +82,9 @@ dependencies {
     implementation("com.github.bumptech.glide:glide:4.15.1")
     //noinspection KaptUsageInsteadOfKsp
     kapt("com.github.bumptech.glide:compiler:4.15.1")
-    //
 
+    // tapadoo
+    implementation("com.github.tapadoo:alerter:7.2.4")
 
 
     //Biometric
@@ -90,4 +92,11 @@ dependencies {
 
     // tapadoo
     implementation("com.github.tapadoo:alerter:7.2.4")
+
+    // Animated Theme
+    implementation ("io.github.imandolatkia:animatedThemeManager:1.1.2")
+
+    //Theme animation
+    implementation("com.airbnb.android:lottie:5.2.0")
+
 }

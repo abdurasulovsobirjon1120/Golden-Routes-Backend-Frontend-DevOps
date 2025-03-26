@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Golden-Routes</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="skip">Skip</string>
+    <string name="online">Online</string>
+    <string name="gambling">GAMBLING</string>
+    <string name="temporibus_autem_aut_officiis_debitis_aut_rerum_necessitatibus">Temporibus autem aut\nofficiis debitis aut rerum\nnecessitatibus</string>
+    <string name="forr">For</string>
+    <string name="gamers">Gamers</string>
+    <string name="excepteur_sint_occaecat_cupidatat_non_proident_sunt_in_culpa_qui_officia">Excepteur sint occaecat\ncupidatat non proident, sunt\nin culpa qui officia</string>
+    <string name="title_on_boarding_first_slide">Welcome to Golden-Routes</string>
+    <string name="description_on_boarding_first_slide">Find your desired car parts, make a request and get them as soon as possibleFind your desired car parts, make a request and get them as soon as possible!</string>
+    <string name="title_on_boarding_second_slide">Use VIN code</string>
+    <string name="description_on_boarding_second_slide">Find your desired car parts, make a request and get them as soon as possibleFind your desired car parts,Find your desired car parts, make a request and get them as soon as possibleFind your desired car parts,Find your desired car parts, make a request and get them as soon as possibleFind your desired car parts,</string>
+    <string name="title_on_boarding_third_slide">Make a request</string>
+    <string name="description_on_boarding_third_slide">Find your desired car parts, make a request and get them as soon as possibleFind your desired car parts,Find your desired car parts, make a request and get them as soon as possibleFind your desired car parts,Find your desired car parts, make a request and get them as soon as possibleFind your desired car parts,</string>
+    <string name="title_button_get_started">Get Started</string>
+
 </resources>
