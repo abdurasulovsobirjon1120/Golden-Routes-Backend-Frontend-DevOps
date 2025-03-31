@@ -1,0 +1,10 @@
+from .RestaurantUpdate import * # noqa
+from .RestaurantCreate import * # noqa
+from .RegionList import * # noqa
+from .RestaurantsDetail import * # noqa
+from .RestaurantsList import * # noqa
+from .CommentDelete import * # noqa
+from .CommentsAdd import * # noqa
+from .CommentsList import * # noqa
+from .FavouritesAdd import * # noqa
+from .FavouritesRemove import * # noqa

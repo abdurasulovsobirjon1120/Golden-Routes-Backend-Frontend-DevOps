@@ -1,0 +1,9 @@
+from .HotelUpdate import * # noqa
+from .HotelsAdd import * # noqa
+from .RegionList import * # noqa
+from .HotelsList import * # noqa
+from .CommentDelete import * # noqa
+from .CommentsAdd import * # noqa
+from .CommentsList import * # noqa
+from .FavouritesAdd import * # noqa
+from .FavouritesRemove import * # noqa
