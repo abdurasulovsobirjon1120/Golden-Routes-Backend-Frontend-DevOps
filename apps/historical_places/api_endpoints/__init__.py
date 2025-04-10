@@ -1,2 +1,9 @@
 from .CountryDetail import * # noqa
 from .CountryList import * # noqa
+from .CountryAdd import * # noqa
+from .HistoricalPlace import * # noqa
+from .RegionList import * # noqa
+from .RegionDetail import * # noqa
+from .Favourites import * # noqa
+from .HistPlaceRate import * # noqa
+from .CommentHistPlace import * # noqa

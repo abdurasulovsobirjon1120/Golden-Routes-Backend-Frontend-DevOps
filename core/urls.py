@@ -25,7 +25,8 @@ urlpatterns = [
     path("user/", include("apps.users.urls")),
     path("historical/", include("apps.historical_places.urls")),
     path("restaurants/", include("apps.restaurants.urls")),
-    path("hotels/", include("apps.hotels.urls"))
+    path("hotels/", include("apps.hotels.urls")),
+    path("rest_places/", include("apps.rest_places.urls"))
 ]
 
 urlpatterns += swagger_urlpatterns

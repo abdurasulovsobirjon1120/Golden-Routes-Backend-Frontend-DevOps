@@ -1,0 +1,8 @@
+from rest_framework import serializers
+from apps.historical_places.models import Country
+
+class CountrySerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Country
+        fields = "__all__"
+        ref_name = 'CountrySerializer_CountryList'
